@@ -1,0 +1,1 @@
+g++ -o hello_world hello_world.cpp -Wall -Wextra -g -std=c++17
